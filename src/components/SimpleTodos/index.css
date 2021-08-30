@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffc2a0;
+}
+.list-container {
+  border-radius: 12px;
+  margin-top: 40px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  max-width: 1100px;
+  padding: 0 30px;
+}
+.top-heading {
+  color: #ff8542;
+  font-size: 40px;
+}
+ul {
+  padding: 0px;
+  width: 100%;
+}
